@@ -1,5 +1,6 @@
 # Let's Travel HTML Practice
 This repository is used to practice personal skills with HTML.
+### Project Link: http://127.0.0.1:5500/Let's-Travel.html
 ### Skills Learned:
 - header sizing
 - set language for website <html lang="en"
